@@ -78,7 +78,7 @@ class MainActivity : AppCompatActivity() {
         // Button: Poronkusema to KM
         val buttonPKTK = Button(this).apply {
             id = android.view.View.generateViewId()
-            text = "Poronkusema to KM"
+            text = "KM to Poronkusema"
             layoutParams = LinearLayout.LayoutParams(
                 ViewGroup.LayoutParams.WRAP_CONTENT,
                 ViewGroup.LayoutParams.WRAP_CONTENT
