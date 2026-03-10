@@ -6,4 +6,4 @@ This project is a simple application for calculating the approximate % of Kilju 
 ## Info and Formulas
 All information relating to formulas can be found on the info page on the app.
 ## Video
-[![Watch the video](https://youtu.be/37er5HS_fqY)
+[![Watch the video](https://img.youtube.com/vi/37er5HS_fqY/default.jpg)](https://youtu.be/37er5HS_fqY)
